@@ -5,6 +5,9 @@ def sum_nums(num1, num2):
 def subtract(num1, num2):
     print(f"{num1} - {num1} = {num1 - num2}")
 
+def divide_nums(num1, num2):
+    print(f"{num1} / {num1} = {num1 / num2}")
+
 
 print('Hello word!')
 print('These are some calculations:')
