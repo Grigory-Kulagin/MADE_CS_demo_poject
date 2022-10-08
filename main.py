@@ -1,4 +1,4 @@
-def sum_nums(num1, num2):
+def sum_two_nums(num1, num2):
     print(f"{num1} + {num1} = {num1 + num2}")
 
 
