@@ -8,3 +8,4 @@ def subtract(num1, num2):
 
 print('Hello word!')
 sum_nums(1, 2)
+subtract(1, 2)
